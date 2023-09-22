@@ -179,9 +179,8 @@ async def etag(client: Client, message: Message):
     async for usr in client.get_chat_members(chat_id):
         if not chat_id in spam_chats:
             break
-	emoji = choice(emojiler)
         usrnum += 1
-        usrtxt += f"[{emoji}](tg://user?id={usr.user.id}), "
+        usrtxt += f"[{choice(emojiler)}](tg://user?id={usr.user.id}), "
         if usrnum == 5:
             if args:
                 txt = f"{args}\n\n{usrtxt}"
