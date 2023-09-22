@@ -16,7 +16,7 @@
 - `!ayril` - Asistan gruptan ayrılır
 
 #### Railway Deploy
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/9rVi0W?referralCode=2-mL5N)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/I8bYT5)
 
 #### Düzen tasarım
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-000?style=quare&labelColor=000&logo=Instagram&logoColor=white&link=https://instagram.com/ama_hocaam?igshid=YmMyMTA2M2Y=)](https://instagram.com/ama_hocaam?igshid=YmMyMTA2M2Y=)
